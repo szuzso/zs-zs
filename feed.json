@@ -5,6 +5,7 @@
     "home_page_url": "https://www.zs-zs.hu",
     "feed_url": "https://www.zs-zs.hu/feed.json",
     "user_comment": "",
+    "icon": "https://www.zs-zs.hu/media/website/Logo-500x500-px.png",
     "author": {
         "name": "Zsolt Szunyog"
     },
