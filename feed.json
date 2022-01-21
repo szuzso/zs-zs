@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://www.zs-zs.hu/save-the-date-3.html",
-            "url": "https://www.zs-zs.hu/save-the-date-3.html",
+            "id": "https://www.zs-zs.hu/save-the-date/",
+            "url": "https://www.zs-zs.hu/save-the-date/",
             "title": "Save The Date",
             "summary": "<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n",
             "content_html": "<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n\n<h3 class=\"align-center\">Helyszín - Algyő, <span style=\"color: #eccafa;\"><a href=\"https://levendulahotelalgyo.hu/\" style=\"color: #eccafa;\">Levendula Hotel</a></span></h3>\n<h3 class=\"msg msg--highlight align-left\">Kérlek írd be a dátumot a naptáradba.<br>Részletek hamarosan.</h3>",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-01-21T00:06:55+01:00",
-            "date_modified": "2022-01-21T18:06:02+01:00"
+            "date_modified": "2022-01-21T18:22:04+01:00"
         }
     ]
 }
