@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zsaklin &amp; Zsolt",
+    "description": "",
+    "home_page_url": "https://szuzso.github.io/zs-zs",
+    "feed_url": "https://szuzso.github.io/zs-zs/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Zsolt Szunyog"
+    },
+    "items": [
+        {
+            "id": "https://szuzso.github.io/zs-zs/save-the-date-3.html",
+            "url": "https://szuzso.github.io/zs-zs/save-the-date-3.html",
+            "title": "Save The Date",
+            "summary": "<h2 class=\"align-center\">Időpont - 2021.07.23</h2>\n",
+            "content_html": "<h2 class=\"align-center\">Időpont - 2021.07.23</h2>\n\n<h3 class=\"align-center\">Helyszín - Algyő, <span style=\"color: #eccafa;\"><a href=\"https://levendulahotelalgyo.hu/\" style=\"color: #eccafa;\">Levendula Hotel</a></span></h3>\n<h3 class=\"msg msg--highlight align-left\">Kérlek írd be a dátumot a naptáradba.<br>Részletek hamarosan.</h3>\n<p> </p>\n<p class=\"msg msg--info\">E-mail: <a href=\"mailto:zsolt.szunyog@gmail.com\" title=\"E-mail\">zsolt.szunyog@gmail.com</a><br>Telefon: +36702806716</p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-01-21T00:06:55+01:00",
+            "date_modified": "2022-01-21T00:16:42+01:00"
+        }
+    ]
+}

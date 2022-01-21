@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Zsaklin &amp; Zsolt</title>
+    <link href="https://szuzso.github.io/zs-zs/feed.xml" rel="self" />
+    <link href="https://szuzso.github.io/zs-zs" />
+    <updated>2022-01-21T00:16:42+01:00</updated>
+    <author>
+        <name>Zsolt Szunyog</name>
+    </author>
+    <id>https://szuzso.github.io/zs-zs</id>
+
+    <entry>
+        <title>Save The Date</title>
+        <author>
+            <name>Zsolt Szunyog</name>
+        </author>
+        <link href="https://szuzso.github.io/zs-zs/save-the-date-3.html"/>
+        <id>https://szuzso.github.io/zs-zs/save-the-date-3.html</id>
+
+        <updated>2022-01-21T00:16:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    <h2 class="align-center">Időpont - 2021.07.23</h2>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 class="align-center">Időpont - 2021.07.23</h2>
+
+<h3 class="align-center">Helyszín - Algyő, <span style="color: #eccafa;"><a href="https://levendulahotelalgyo.hu/" style="color: #eccafa;">Levendula Hotel</a></span></h3>
+<h3 class="msg msg--highlight align-left">Kérlek írd be a dátumot a naptáradba.<br>Részletek hamarosan.</h3>
+<p> </p>
+<p class="msg msg--info">E-mail: <a href="mailto:zsolt.szunyog@gmail.com" title="E-mail">zsolt.szunyog@gmail.com</a><br>Telefon: +36702806716</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

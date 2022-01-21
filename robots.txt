@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://szuzso.github.io/zs-zs/sitemap.xml
