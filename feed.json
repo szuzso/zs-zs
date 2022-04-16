@@ -11,18 +11,121 @@
     },
     "items": [
         {
+            "id": "https://www.zs-zs.hu/szallas/",
+            "url": "https://www.zs-zs.hu/szallas/",
+            "title": "Szállás",
+            "summary": "A hotelben van lehetőség szállás igénybevételére a szombati napra (illetve ha valaki szeretne már pénteken érkezni vagy tovább maradni, akkor a többi napokra&hellip;",
+            "content_html": "<p>A hotelben van lehetőség szállás igénybevételére a szombati napra (illetve ha valaki szeretne már pénteken érkezni vagy tovább maradni, akkor a többi napokra is).<br>Kétfajta szállás közül lehet választani:</p>\n<ol>\n<li>Hotelszoba - 12db kétágyas, saját fürdőszobás, nagy alapterületű, pótágyazható szoba (akár kettő pótággyal is)</li>\n<li>Apartman - 2db 4 fős apartman és 2db 3 fős apartman, apartmanonként külön fürdőszobával (koli feeling)</li>\n</ol>\n<p>Árak</p>\n<ol>\n<li>Hotelszoba - 7600Ft/fő/éj reggeli nélkül, 9200Ft/fő/éj reggelivel, 6 éves korig ingyenes</li>\n<li>Apartman - 6650Ft/fő/éj reggeli nélkül, 8200Ft/fő/éj reggelivel, 6 éves korig ingyenes</li>\n</ol>\n<p>Aki szeretne szobát kérni, az kérem, hogy email-ben jelezzen vissza <strong>2022.04.30</strong>-ig az alábbi adatok megadásával:</p>\n<ul>\n<li>név</li>\n<li>személyi igazolvány szám</li>\n<li>állandó lakcím</li>\n<li>születési hely, idő</li>\n<li>anyja leánykori neve</li>\n<li>telefonszám</li>\n<li>e-mail</li>\n</ul>\n<p>A fenti adatokat minden szállást kérő személyre vonatkozóan adjátok meg (gyerekekre is a telefonszám és az e-mail kivételével).<br>A helyszínre hozzátok magatokkal az okmányokat (a gyerekekét is), mert az új szabályok szerint a hotelnek be kell szkennelni az adatokat.<br><br>Az adatok megadásával a regisztrációs folyamatot tudjátok lerövidíteni. A foglaláshoz előleg nem szükséges, a számlát a távozáskor elegendő kiegyenlítenetek.<br><br><br><br><br></p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-16T20:05:13+02:00",
+            "date_modified": "2022-04-16T20:05:13+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/egyhazi-szertartas/",
+            "url": "https://www.zs-zs.hu/egyhazi-szertartas/",
+            "title": "Egyházi szertartás",
+            "summary": "Az egyházi szertartás az algyői Szent Anna Római Katolikus Templomban lesz megtartva, amelynek plébánosa Fazakas Attila. Az algyői templom elérhetősége Attila Atya az&hellip;",
+            "content_html": "<p>Az egyházi szertartás az algyői <a href=\"http://szentannaplebaniaalgyo.hu/\" target=\"_blank\" rel=\"noopener noreferrer\">Szent Anna Római Katolikus Templomban</a> lesz megtartva, amelynek plébánosa <a href=\"https://www.facebook.com/attila.fazakas.37\" target=\"_blank\" rel=\"noopener noreferrer\">Fazakas Attila</a>.</p>\n<p>Az algyői templom elérhetősége</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\" src=\"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJDQnwHBJjREcRP1u7c7KGJZk&amp;key=AIzaSyCDgNhYglv_L6lWGs-o6CVvfGaCo-CKPWY\"></iframe></div>\n<p> </p>\n<p>Attila Atya az algyői templom mellett a szegedi <a href=\"http://szentkeresztplebaniaszeged.hu/\" target=\"_blank\" rel=\"noopener noreferrer\">Szent Kereszt Felmagasztalása Templom</a> plébánosa is, ahol a Covid óta online szentmiséket tart.</p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T19:52:39+02:00",
+            "date_modified": "2022-04-16T21:15:07+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/a-vofely/",
+            "url": "https://www.zs-zs.hu/a-vofely/",
+            "title": "A vőfély",
+            "summary": "Az esküvőn és a lakodalomban a menetrend gördülékenységéért és a jó hangulatért Faragó Gábor vőfély felel. WEB",
+            "content_html": "<p>Az esküvőn és a lakodalomban a menetrend gördülékenységéért és a jó hangulatért Faragó Gábor vőfély felel.</p>\n<p><a href=\"http://farago_gabor.lakodalomba.hu/\">WEB</a></p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T19:38:06+02:00",
+            "date_modified": "2022-04-16T21:15:15+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/gyermek-animacio/",
+            "url": "https://www.zs-zs.hu/gyermek-animacio/",
+            "title": "Gyermek animáció",
+            "summary": "A lakodalom ideje alatt legy gyermek animációs program a tervek szerint 17.30-tól, amelyet az \"Esküvő gyerekszemmel\" csapata szolgáltat. A szolgáltatásról itt olvashatok: WEB",
+            "content_html": "<p>A lakodalom ideje alatt legy gyermek animációs program a tervek szerint 17.30-tól, amelyet az \"<a href=\"https://eskuvogyerekszemmel-hu.webnode.hu/\" title=\"https://eskuvogyerekszemmel-hu.webnode.hu/\" target=\"_blank\" rel=\"noopener noreferrer\">Esküvő gyerekszemmel</a>\" csapata szolgáltat.</p>\n<p>A szolgáltatásról itt olvashatok:</p>\n<p><a href=\"https://eskuvogyerekszemmel-hu.webnode.hu/\" target=\"_blank\" rel=\"noopener noreferrer\">WEB</a></p>\n<figure class=\"post__image\"><a href=\"https://www.facebook.com/eskuvogyerekszemmel\" title=\"https://www.facebook.com/eskuvogyerekszemmel\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/11/f_logo_RGB-Blue_250.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-xs.png 300w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-sm.png 480w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-md.png 768w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-lg.png 1024w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-xl.png 1360w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-2xl.png 1600w\"  alt=\"\" width=\"64\" height=\"64\"></figure></a></p>\n<p> </p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T19:33:09+02:00",
+            "date_modified": "2022-04-16T21:15:21+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/a-zenekar/",
+            "url": "https://www.zs-zs.hu/a-zenekar/",
+            "title": "A zenekar",
+            "summary": "A lakodalomban a zenét a Green6 zenekar biztosítja. Egy kis ízelítőt találtok a zenekarról az alábbi elérhetőségeken.",
+            "content_html": "<p>A lakodalomban a zenét a <a href=\"https://green6.hu/\" title=\"https://green6.hu/\">Green6 </a>zenekar biztosítja. Egy kis ízelítőt találtok a zenekarról az alábbi elérhetőségeken. </p>\n<figure class=\"post__image\"><a href=\"https://www.facebook.com/green6band/\" title=\"https://www.facebook.com/green6band/\" target=\"_blank\" rel=\"noopener noreferrer\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/10/f_logo_RGB-Blue_250.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-xs.png 300w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-sm.png 480w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-md.png 768w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-lg.png 1024w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-xl.png 1360w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-2xl.png 1600w\"  alt=\"\" width=\"64\" height=\"64\"></figure></a></p>\n<figure class=\"post__image\"><a href=\"https://www.youtube.com/channel/UCrfUBfQd5LSMxequ9rTI_6w\" title=\"https://www.youtube.com/channel/UCrfUBfQd5LSMxequ9rTI_6w\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/10/yt_logo_rgb_light.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-xs.png 300w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-sm.png 480w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-md.png 768w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-lg.png 1024w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-xl.png 1360w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-2xl.png 1600w\"  alt=\"\" width=\"128\" height=\"29\"></figure></a></p>\n<p> </p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T16:11:37+02:00",
+            "date_modified": "2022-04-16T21:15:26+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/ajandek/",
+            "url": "https://www.zs-zs.hu/ajandek/",
+            "title": "Ajándék",
+            "summary": "Ajándékon ne gondolkozz, magaddal csak jókedvet hozz! Inkább add a menyecske táncnál, amit kis családunkra szántál. Ha mégis ajándékkal készülnél, örömmel fogadjuk, csak&hellip;",
+            "content_html": "<blockquote><address><em>Ajándékon ne gondolkozz, </em><br><em>magaddal csak jókedvet hozz! </em><br><em>Inkább add a menyecske táncnál, </em><br><em>amit kis családunkra szántál. </em><br><em>Ha mégis ajándékkal készülnél, </em><br><em>örömmel fogadjuk, csak az esküvőre oda érjél.</em></address></blockquote>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T15:25:12+02:00",
+            "date_modified": "2022-04-16T21:15:31+02:00"
+        },
+        {
+            "id": "https://www.zs-zs.hu/tervezett-menetrend/",
+            "url": "https://www.zs-zs.hu/tervezett-menetrend/",
+            "title": "Tervezett menetrend",
+            "summary": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%; height: 650px;\" border=\"3\">\n<tbody>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>14.00–15.40</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Vendégvárás, szobák elfoglalása (aki kér szállást), frissítők elfogyasztása</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>14.50</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Lánykikérés</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>15.20</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Búcsúztatás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>15.40–16.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Indulás az Algyői Szent Anna templomhoz</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>16.00–16.45</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Egyházi szertartás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>16.45-17.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Csoportkép a templom előtt, indulás vissza a Levendula hotelhez</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>17.15-17.45</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Fotózás a vendégekkel a Levendula hotel parkjában</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>18.00-18.20</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Polgári szertartás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>18.20-18.50</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Koccintás, gratuláció</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>19.00-19.30</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Helyek elfoglalása a \"hangárban\", a lakodalom megnyitása</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>19.30-20.30</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Vacsora</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>20.30-04.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Lakodalom</td>\n</tr>\n</tbody>\n</table>\n",
+            "content_html": "<p> </p>\n<table style=\"border-collapse: collapse; width: 100%; height: 650px;\" border=\"3\">\n<tbody>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>14.00–15.40</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Vendégvárás, szobák elfoglalása (aki kér szállást), frissítők elfogyasztása</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>14.50</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Lánykikérés</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>15.20</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Búcsúztatás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>15.40–16.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Indulás az Algyői Szent Anna templomhoz</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>16.00–16.45</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Egyházi szertartás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>16.45-17.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Csoportkép a templom előtt, indulás vissza a Levendula hotelhez</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>17.15-17.45</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Fotózás a vendégekkel a Levendula hotel parkjában</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>18.00-18.20</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Polgári szertartás</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>18.20-18.50</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Koccintás, gratuláció</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>19.00-19.30</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Helyek elfoglalása a \"hangárban\", a lakodalom megnyitása</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>19.30-20.30</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Vacsora</td>\n</tr>\n<tr style=\"height: 50px;\">\n<td class=\"align-center\" style=\"width: 33.3333%; height: 50px;\"><strong>20.30-04.00</strong></td>\n<td style=\"width: 46.304%; height: 50px;\">Lakodalom</td>\n</tr>\n</tbody>\n</table>\n\n<p>A lakodalom ideje alatt</p>\n<ul>\n<li>a zenét a <a href=\"https://www.zs-zs.hu/a-zenekar/\">Green6</a> zenekar biztosítja</li>\n<li>lesz gyerekanimációs program, amelyet az \"<a href=\"https://www.zs-zs.hu/gyermek-animacio/\">Esküvő gyerekszemmel</a>\" csapata szolgáltatja</li>\n<li>a menetrend gördülékenységéért és a jó hangulatért <a href=\"https://www.zs-zs.hu/a-vofely/\">Faragó Gábor vőfély</a> felel<br><br></li>\n</ul>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-04-16T15:24:38+02:00",
+            "date_modified": "2022-04-16T20:12:40+02:00"
+        },
+        {
             "id": "https://www.zs-zs.hu/save-the-date/",
             "url": "https://www.zs-zs.hu/save-the-date/",
             "title": "Save The Date",
-            "summary": "<div id=\"fb-root\"> </div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n",
-            "content_html": "<div id=\"fb-root\"> </div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n\n<h3 class=\"align-center\">Helyszín - Algyő, <span style=\"color: #eccafa;\"><a href=\"https://levendulahotelalgyo.hu/\" style=\"color: #eccafa;\">Levendula Hotel</a></span></h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\" src=\"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJh3lzjD9jREcR9PKrNQveiU0&amp;key=AIzaSyCDgNhYglv_L6lWGs-o6CVvfGaCo-CKPWY\"></iframe></div>\n<h3 class=\"msg msg--highlight align-left\">Kérlek írd be a dátumot a naptáradba.<br>Részletek hamarosan.</h3>\n<p> </p>\n<div class=\"fb-group\" data-href=\"https://www.facebook.com/groups/zsandzs\" data-width=\"320\" data-show-metadata=\"false\">\n<blockquote class=\"fb-xfbml-parse-ignore\" cite=\"https://www.facebook.com/groups/zsandzs\">Zsaklin &amp; Zsolt Wedding</blockquote>\n</div>",
+            "summary": "<div id=\"fb-root\"></div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n",
+            "content_html": "<div id=\"fb-root\"></div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n\n<h3 class=\"align-center\">Helyszín - Algyő, <span style=\"color: #eccafa;\"><a href=\"https://levendulahotelalgyo.hu/\" style=\"color: #eccafa;\">Levendula Hotel</a></span></h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\" src=\"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJh3lzjD9jREcR9PKrNQveiU0&amp;key=AIzaSyCDgNhYglv_L6lWGs-o6CVvfGaCo-CKPWY\"></iframe></div>\n<h3 class=\"msg msg--highlight align-left\">Kérlek írd be a dátumot a naptáradba.</h3>\n<p> </p>\n<div class=\"fb-group\" data-href=\"https://www.facebook.com/groups/zsandzs\" data-width=\"320\" data-show-metadata=\"false\">\n<blockquote class=\"fb-xfbml-parse-ignore\" cite=\"https://www.facebook.com/groups/zsandzs\">Zsaklin &amp; Zsolt Wedding</blockquote>\n</div>",
             "author": {
                 "name": "Zsolt Szunyog"
             },
             "tags": [
             ],
             "date_published": "2022-01-21T00:06:55+01:00",
-            "date_modified": "2022-01-22T01:26:16+01:00"
+            "date_modified": "2022-04-16T21:17:48+02:00"
         }
     ]
 }
