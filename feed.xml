@@ -3,7 +3,7 @@
     <title>Zsaklin &amp; Zsolt</title>
     <link href="https://www.zs-zs.hu/feed.xml" rel="self" />
     <link href="https://www.zs-zs.hu" />
-    <updated>2022-04-16T21:17:48+02:00</updated>
+    <updated>2022-04-16T22:11:50+02:00</updated>
     <author>
         <name>Zsolt Szunyog</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://www.zs-zs.hu/szallas/"/>
         <id>https://www.zs-zs.hu/szallas/</id>
 
-        <updated>2022-04-16T20:05:13+02:00</updated>
+        <updated>2022-04-16T22:11:50+02:00</updated>
             <summary>
                 <![CDATA[
                     A hotelben van lehetőség szállás igénybevételére a szombati napra (illetve ha valaki szeretne már pénteken érkezni vagy tovább maradni, akkor a többi napokra&hellip;
@@ -45,7 +45,7 @@
 <li>telefonszám</li>
 <li>e-mail</li>
 </ul>
-<p>A fenti adatokat minden szállást kérő személyre vonatkozóan adjátok meg (gyerekekre is a telefonszám és az e-mail kivételével).<br>A helyszínre hozzátok magatokkal az okmányokat (a gyerekekét is), mert az új szabályok szerint a hotelnek be kell szkennelni az adatokat.<br><br>Az adatok megadásával a regisztrációs folyamatot tudjátok lerövidíteni. A foglaláshoz előleg nem szükséges, a számlát a távozáskor elegendő kiegyenlítenetek.<br><br><br><br><br></p>
+<p>A fenti adatokat minden szállást kérő személyre vonatkozóan adjátok meg (gyerekekre is a telefonszám és az e-mail kivételével).<br>A helyszínre hozzátok magatokkal az okmányokat (a gyerekekét is), mert az új szabályok szerint a hotelnek be kell szkennelni a dokumentumokat.<br><br>Az adatok megadásával a regisztrációs folyamatot tudjátok lerövidíteni. A foglaláshoz előleg nem szükséges, a számlát a távozáskor elegendő kiegyenlítenetek.<br><br><br><br><br></p>
             ]]>
         </content>
     </entry>
@@ -58,15 +58,17 @@
         <id>https://www.zs-zs.hu/egyhazi-szertartas/</id>
             <category term="info"/>
 
-        <updated>2022-04-16T21:15:07+02:00</updated>
+        <updated>2022-04-16T22:04:22+02:00</updated>
             <summary>
                 <![CDATA[
-                    Az egyházi szertartás az algyői Szent Anna Római Katolikus Templomban lesz megtartva, amelynek plébánosa Fazakas Attila. Az algyői templom elérhetősége Attila Atya az&hellip;
+                    <p>Az egyházi szertartás az algyői <a href="http://szentannaplebaniaalgyo.hu/" target="_blank" rel="noopener noreferrer">Szent Anna Római Katolikus Templomban</a> lesz megtartva, amelynek plébánosa <a href="https://www.facebook.com/attila.fazakas.37" target="_blank" rel="noopener noreferrer">Fazakas Attila</a>.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Az egyházi szertartás az algyői <a href="http://szentannaplebaniaalgyo.hu/" target="_blank" rel="noopener noreferrer">Szent Anna Római Katolikus Templomban</a> lesz megtartva, amelynek plébánosa <a href="https://www.facebook.com/attila.fazakas.37" target="_blank" rel="noopener noreferrer">Fazakas Attila</a>.</p>
+
 <p>Az algyői templom elérhetősége</p>
 <div class="post__iframe"><iframe loading="lazy" width="600" height="450" style="border: 0;" loading="lazy" allowfullscreen="allowfullscreen" src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJDQnwHBJjREcRP1u7c7KGJZk&amp;key=AIzaSyCDgNhYglv_L6lWGs-o6CVvfGaCo-CKPWY"></iframe></div>
 <p> </p>
@@ -83,15 +85,17 @@
         <id>https://www.zs-zs.hu/a-vofely/</id>
             <category term="info"/>
 
-        <updated>2022-04-16T21:15:15+02:00</updated>
+        <updated>2022-04-16T22:04:31+02:00</updated>
             <summary>
                 <![CDATA[
-                    Az esküvőn és a lakodalomban a menetrend gördülékenységéért és a jó hangulatért Faragó Gábor vőfély felel. WEB
+                    <p>Az esküvőn és a lakodalomban a menetrend gördülékenységéért és a jó hangulatért Faragó Gábor vőfély felel.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Az esküvőn és a lakodalomban a menetrend gördülékenységéért és a jó hangulatért Faragó Gábor vőfély felel.</p>
+
 <p><a href="http://farago_gabor.lakodalomba.hu/">WEB</a></p>
             ]]>
         </content>
@@ -105,15 +109,17 @@
         <id>https://www.zs-zs.hu/gyermek-animacio/</id>
             <category term="info"/>
 
-        <updated>2022-04-16T21:15:21+02:00</updated>
+        <updated>2022-04-16T22:04:43+02:00</updated>
             <summary>
                 <![CDATA[
-                    A lakodalom ideje alatt legy gyermek animációs program a tervek szerint 17.30-tól, amelyet az "Esküvő gyerekszemmel" csapata szolgáltat. A szolgáltatásról itt olvashatok: WEB
+                    <p>A lakodalom ideje alatt legy gyermek animációs program a tervek szerint 17.30-tól, amelyet az "<a href="https://eskuvogyerekszemmel-hu.webnode.hu/" title="https://eskuvogyerekszemmel-hu.webnode.hu/" target="_blank" rel="noopener noreferrer">Esküvő gyerekszemmel</a>" csapata szolgáltat.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>A lakodalom ideje alatt legy gyermek animációs program a tervek szerint 17.30-tól, amelyet az "<a href="https://eskuvogyerekszemmel-hu.webnode.hu/" title="https://eskuvogyerekszemmel-hu.webnode.hu/" target="_blank" rel="noopener noreferrer">Esküvő gyerekszemmel</a>" csapata szolgáltat.</p>
+
 <p>A szolgáltatásról itt olvashatok:</p>
 <p><a href="https://eskuvogyerekszemmel-hu.webnode.hu/" target="_blank" rel="noopener noreferrer">WEB</a></p>
 <figure class="post__image"><a href="https://www.facebook.com/eskuvogyerekszemmel" title="https://www.facebook.com/eskuvogyerekszemmel" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://www.zs-zs.hu/media/posts/11/f_logo_RGB-Blue_250.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-xs.png 300w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-sm.png 480w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-md.png 768w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-lg.png 1024w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-xl.png 1360w ,https://www.zs-zs.hu/media/posts/11/responsive/f_logo_RGB-Blue_250-2xl.png 1600w"  alt="" width="64" height="64"></figure></a></p>
@@ -130,15 +136,18 @@
         <id>https://www.zs-zs.hu/a-zenekar/</id>
             <category term="info"/>
 
-        <updated>2022-04-16T21:15:26+02:00</updated>
+        <updated>2022-04-16T22:04:58+02:00</updated>
             <summary>
                 <![CDATA[
-                    A lakodalomban a zenét a Green6 zenekar biztosítja. Egy kis ízelítőt találtok a zenekarról az alábbi elérhetőségeken.
+                    <p>A lakodalomban a zenét a <a href="https://green6.hu/" title="https://green6.hu/">Green6 </a>zenekar biztosítja.</p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>A lakodalomban a zenét a <a href="https://green6.hu/" title="https://green6.hu/">Green6 </a>zenekar biztosítja. Egy kis ízelítőt találtok a zenekarról az alábbi elérhetőségeken. </p>
+                <p>A lakodalomban a zenét a <a href="https://green6.hu/" title="https://green6.hu/">Green6 </a>zenekar biztosítja.</p>
+
+<p>Egy kis ízelítőt találtok a zenekarról az alábbi elérhetőségeken. </p>
 <figure class="post__image"><a href="https://www.facebook.com/green6band/" title="https://www.facebook.com/green6band/" target="_blank" rel="noopener noreferrer"><img loading="lazy"  src="https://www.zs-zs.hu/media/posts/10/f_logo_RGB-Blue_250.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-xs.png 300w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-sm.png 480w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-md.png 768w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-lg.png 1024w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-xl.png 1360w ,https://www.zs-zs.hu/media/posts/10/responsive/f_logo_RGB-Blue_250-2xl.png 1600w"  alt="" width="64" height="64"></figure></a></p>
 <figure class="post__image"><a href="https://www.youtube.com/channel/UCrfUBfQd5LSMxequ9rTI_6w" title="https://www.youtube.com/channel/UCrfUBfQd5LSMxequ9rTI_6w"><img loading="lazy"  src="https://www.zs-zs.hu/media/posts/10/yt_logo_rgb_light.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-xs.png 300w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-sm.png 480w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-md.png 768w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-lg.png 1024w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-xl.png 1360w ,https://www.zs-zs.hu/media/posts/10/responsive/yt_logo_rgb_light-2xl.png 1600w"  alt="" width="128" height="29"></figure></a></p>
 <p> </p>
