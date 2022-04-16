@@ -3,12 +3,36 @@
     <title>Zsaklin &amp; Zsolt</title>
     <link href="https://www.zs-zs.hu/feed.xml" rel="self" />
     <link href="https://www.zs-zs.hu" />
-    <updated>2022-04-16T22:32:24+02:00</updated>
+    <updated>2022-04-16T22:42:36+02:00</updated>
     <author>
         <name>Zsolt Szunyog</name>
     </author>
     <id>https://www.zs-zs.hu</id>
 
+    <entry>
+        <title>Transzfer</title>
+        <author>
+            <name>Zsolt Szunyog</name>
+        </author>
+        <link href="https://www.zs-zs.hu/transzfer/"/>
+        <id>https://www.zs-zs.hu/transzfer/</id>
+            <category term="info"/>
+
+        <updated>2022-04-16T22:42:36+02:00</updated>
+            <summary>
+                <![CDATA[
+                    <p>A lakodalom alatt és után egy kisbusz transzfer szolgáltatást nyújt a Szegeden és környékén lakó vendégeknek.</p>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A lakodalom alatt és után egy kisbusz transzfer szolgáltatást nyújt a Szegeden és környékén lakó vendégeknek.</p>
+
+<p>Érkezzetek autóval, érezzétek jól magatokat, használjátok a transzfer szolgáltatást és másnap ki tudtok jönni az autóért.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Szállás</title>
         <author>

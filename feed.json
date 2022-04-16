@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://www.zs-zs.hu/transzfer/",
+            "url": "https://www.zs-zs.hu/transzfer/",
+            "title": "Transzfer",
+            "summary": "<p>A lakodalom alatt és után egy kisbusz transzfer szolgáltatást nyújt a Szegeden és környékén lakó vendégeknek.</p>\n",
+            "content_html": "<p>A lakodalom alatt és után egy kisbusz transzfer szolgáltatást nyújt a Szegeden és környékén lakó vendégeknek.</p>\n\n<p>Érkezzetek autóval, érezzétek jól magatokat, használjátok a transzfer szolgáltatást és másnap ki tudtok jönni az autóért.</p>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+                   "info"
+            ],
+            "date_published": "2022-04-16T22:42:36+02:00",
+            "date_modified": "2022-04-16T22:42:36+02:00"
+        },
+        {
             "id": "https://www.zs-zs.hu/szallas/",
             "url": "https://www.zs-zs.hu/szallas/",
             "title": "Szállás",
