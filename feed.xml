@@ -3,12 +3,34 @@
     <title>Zsaklin &amp; Zsolt</title>
     <link href="https://www.zs-zs.hu/feed.xml" rel="self" />
     <link href="https://www.zs-zs.hu" />
-    <updated>2022-04-16T23:00:22+02:00</updated>
+    <updated>2022-04-17T16:47:41+02:00</updated>
     <author>
         <name>Zsolt Szunyog</name>
     </author>
     <id>https://www.zs-zs.hu</id>
 
+    <entry>
+        <title>A &quot;Hangár&quot;</title>
+        <author>
+            <name>Zsolt Szunyog</name>
+        </author>
+        <link href="https://www.zs-zs.hu/a-hangar/"/>
+        <id>https://www.zs-zs.hu/a-hangar/</id>
+            <category term="info"/>
+
+        <updated>2022-04-17T16:47:15+02:00</updated>
+            <summary>
+                <![CDATA[
+                    A "Hangár" a Levendula hotelen területén egy nagyobb épület, a múlt században valóban katonai hangárként funkcionált. A Hotel építésekor felújították, az előtte lévő&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A "Hangár" a Levendula hotelen területén egy nagyobb épület, a múlt században valóban katonai hangárként funkcionált. A Hotel építésekor felújították, az előtte lévő nagy parkkal közösségi színtérkén és esküvőhelyszínként funkcionál.</p>
+<p><a href="https://levendulahotelalgyo.hu/levendula-eskuvohelyszin/hangar/">Bővebb info a "Hangár"-ról</a></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Transzfer</title>
         <author>
@@ -209,7 +231,7 @@
         <link href="https://www.zs-zs.hu/tervezett-menetrend/"/>
         <id>https://www.zs-zs.hu/tervezett-menetrend/</id>
 
-        <updated>2022-04-16T22:50:04+02:00</updated>
+        <updated>2022-04-17T16:47:41+02:00</updated>
             <summary>
                 <![CDATA[
                     <p> </p>
@@ -253,7 +275,7 @@
 </tr>
 <tr style="height: 50px;">
 <td class="align-center" style="width: 33.3333%; height: 50px;"><strong>19.00-19.30</strong></td>
-<td style="width: 46.304%; height: 50px;">Helyek elfoglalása a "hangárban", a lakodalom megnyitása</td>
+<td style="width: 46.304%; height: 50px;">Helyek elfoglalása a "<a href="#non-existing-post-with-id-16" target="_blank" rel="noopener noreferrer">hangárban</a>", a lakodalom megnyitása</td>
 </tr>
 <tr style="height: 50px;">
 <td class="align-center" style="width: 33.3333%; height: 50px;"><strong>19.30-20.30</strong></td>
@@ -311,7 +333,7 @@
 </tr>
 <tr style="height: 50px;">
 <td class="align-center" style="width: 33.3333%; height: 50px;"><strong>19.00-19.30</strong></td>
-<td style="width: 46.304%; height: 50px;">Helyek elfoglalása a "hangárban", a lakodalom megnyitása</td>
+<td style="width: 46.304%; height: 50px;">Helyek elfoglalása a "<a href="https://www.zs-zs.hu/a-hangar/" target="_blank" rel="noopener noreferrer">hangárban</a>", a lakodalom megnyitása</td>
 </tr>
 <tr style="height: 50px;">
 <td class="align-center" style="width: 33.3333%; height: 50px;"><strong>19.30-20.30</strong></td>
