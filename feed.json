@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://www.zs-zs.hu/meghivo/",
+            "url": "https://www.zs-zs.hu/meghivo/",
+            "title": "Meghívó",
+            "summary": "Elkészült a meghívónk nyomtatott változata. Köszönjük a Farago Print-nek a kivitelezést. (Design = Zsaklin; Content = Zsolt; Team work = 100%) → [ZS]²&hellip;",
+            "content_html": "<p>Elkészült a meghívónk nyomtatott változata. Köszönjük a <a href=\"https://faragoprint.hu/\" target=\"_blank\" rel=\"noopener noreferrer\">Farago Print</a>-nek a kivitelezést.</p>\n<p><code>(Design = Zsaklin; Content = Zsolt; Team work = 100%) → [ZS]²</code></p>\n<p>Personal delivery soon...</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/17/ZS2.pdf\" alt=\"\"></figure><figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/17/ZS2-1.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-xs.jpg 300w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-sm.jpg 480w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-md.jpg 768w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-lg.jpg 1024w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-xl.jpg 1360w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-1-2xl.jpg 1600w\"  alt=\"\" width=\"566\" height=\"621\"></figure>\n<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://www.zs-zs.hu/media/posts/17/ZS2-2.jpg\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-xs.jpg 300w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-sm.jpg 480w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-md.jpg 768w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-lg.jpg 1024w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-xl.jpg 1360w ,https://www.zs-zs.hu/media/posts/17/responsive/ZS2-2-2xl.jpg 1600w\"  alt=\"\" width=\"1124\" height=\"606\"></figure>",
+            "author": {
+                "name": "Zsolt Szunyog"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-04T10:58:05+02:00",
+            "date_modified": "2022-06-04T11:19:17+02:00"
+        },
+        {
             "id": "https://www.zs-zs.hu/a-hangar/",
             "url": "https://www.zs-zs.hu/a-hangar/",
             "title": "A &quot;Hangár&quot;",
@@ -142,20 +156,6 @@
             ],
             "date_published": "2022-04-16T15:24:38+02:00",
             "date_modified": "2022-04-17T18:08:43+02:00"
-        },
-        {
-            "id": "https://www.zs-zs.hu/save-the-date/",
-            "url": "https://www.zs-zs.hu/save-the-date/",
-            "title": "Save The Date",
-            "summary": "<div id=\"fb-root\"></div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n",
-            "content_html": "<div id=\"fb-root\"></div>\n<p>\n<script async=\"\" defer=\"defer\" crossorigin=\"anonymous\" src=\"https://connect.facebook.net/hu_HU/sdk.js#xfbml=1&amp;version=v12.0&amp;appId=4800743043338659&amp;autoLogAppEvents=1\" nonce=\"oSheg4He\"></script>\n</p>\n<h2 class=\"align-center\">Időpont - 2022.07.23</h2>\n\n<h3 class=\"align-center\">Helyszín - Algyő, <span style=\"color: #eccafa;\"><a href=\"https://levendulahotelalgyo.hu/\" style=\"color: #eccafa;\">Levendula Hotel</a></span></h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\" src=\"https://www.google.com/maps/embed/v1/place?q=place_id:ChIJh3lzjD9jREcR9PKrNQveiU0&amp;key=AIzaSyCDgNhYglv_L6lWGs-o6CVvfGaCo-CKPWY\"></iframe></div>\n<h3 class=\"msg msg--highlight align-left\">Kérlek írd be a dátumot a naptáradba.</h3>\n<p> </p>\n<div class=\"fb-group\" data-href=\"https://www.facebook.com/groups/zsandzs\" data-width=\"320\" data-show-metadata=\"false\">\n<blockquote class=\"fb-xfbml-parse-ignore\" cite=\"https://www.facebook.com/groups/zsandzs\">Zsaklin &amp; Zsolt Wedding</blockquote>\n</div>",
-            "author": {
-                "name": "Zsolt Szunyog"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-01-21T00:06:55+01:00",
-            "date_modified": "2022-04-16T21:17:48+02:00"
         }
     ]
 }
